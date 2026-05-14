@@ -8,7 +8,7 @@
 
 ## Screenshot
 
-![gestion-des-rdvs](https://github.com/youssefbarj/gestion-des-rdvs/raw/main/screenshot.png)
+![gestion-des-rdvs](https://raw.githubusercontent.com/youssefbarj/gestion-des-rdvs/main/screenshot.png)
 
 ## What this slide does
 

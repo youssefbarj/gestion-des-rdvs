@@ -1,18 +1,21 @@
-# Récapitulatif Rendez-Vous — Gerer vos RDV
+# gestion-des-rdvs
 
-**Course:** Gerer vos RDV  
-**Slide:** 9  
-**Live URL:** https://microneedling-recapitulatif-o7no.edtechiecorp.com  
-**Stack:** Next.js · Tailwind CSS · TypeScript · GitHub Pages  
+**Course:** Not currently embedded in E-Lumy's Coassemble
+**Live URL:** https://microneedling-recapitulatif-o7no.edtechiecorp.com
+**Stack:** Next.js · Tailwind CSS · TypeScript · GitHub Pages
 
-## What this slide does
-
-Summary and recap slide for the appointment management module, consolidating the key concepts covered throughout the course. Learners review best practices for scheduling, confirmations, last-minute changes, and client communication. Positioned as slide 9, this is a near-final slide that helps practitioners retain and apply the full appointment workflow before completing the module.
+> Not currently embedded in any E-Lumy course (was Gestion des RDV slide 9 in original workspace).
 
 ## Screenshot
 
-![gestion-des-rdvs](./screenshot.png)
+![gestion-des-rdvs](https://github.com/youssefbarj/gestion-des-rdvs/raw/main/screenshot.png)
+
+## What this slide does
+
+This is an interactive slide embedded as an iframe inside Coassemble. See the screenshot above for a visual preview of the content.
 
 ## Usage
 
-This slide is embedded as an iframe inside Coassemble at the live URL above. DNS is managed via Cloudflare (`edtechiecorp.com`). To update the slide, push to the `main` branch — GitHub Actions will rebuild and redeploy automatically.
+This slide is served via GitHub Pages at the live URL above. DNS is managed via Cloudflare (`edtechiecorp.com`). To update the slide, push to the `main` branch — GitHub Actions will rebuild and redeploy automatically.
+
+> **For E-Lumy's tech team:** After migrating this repo to your own GitHub account, re-enable GitHub Pages in Settings → Pages → Source: GitHub Actions. Then update the embed URL in Coassemble to your new deployment URL.
